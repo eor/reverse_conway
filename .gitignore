@@ -1,0 +1,7 @@
+/data/raw/sample_submission.csv
+/data/raw/test.csv
+/data/raw/train.csv
+/data/raw/*.csv.cache
+/data/output/*.png
+/data/output/*.pdf
+/.idea
